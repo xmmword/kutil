@@ -2,7 +2,7 @@
 An x64 linux kernel driver loader and utility.
 
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/105472509/169201270-3aadd577-6e67-419d-8c55-79352ea2b281.png" width="500px"><br>
+    <img src="https://user-images.githubusercontent.com/105472509/170844444-fda8b126-6b23-4bc3-a890-6836ffdcc4b3.png" width="700px"><br>
 </div>
 
 ## Description
